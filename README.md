@@ -1,4 +1,5 @@
-# primer-Repositorio
+# Respositorio de Yesid en el curso de git 
 Primer repo creado en github 
-##Descripción 
+
+## descripción 
 Este es un repo de yesid para el curso de git 
